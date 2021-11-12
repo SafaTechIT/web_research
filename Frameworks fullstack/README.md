@@ -1,6 +1,6 @@
 # full stack
 
-### who is full stack developer?
+## who is full stack developer?
 
  web programing included : front end , back end , full stack .
 
