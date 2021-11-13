@@ -10,12 +10,12 @@ full stack programer must in addition mastery of front end and back end even he 
 
 ### the most important skills for fullstack developer
 
-1-front end 
-2-back end 
-3-data base 
-4-project managment 
-5-debuging
-6-api
+1. front end 
+2. back end 
+3. data base 
+4. project managment 
+5. debuging
+6. api
 
 
 #### 1-front end 
